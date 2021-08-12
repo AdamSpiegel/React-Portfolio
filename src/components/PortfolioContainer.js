@@ -6,7 +6,7 @@ import Projects from './pages/Projects';
 import AboutMe from './pages/AboutMe';
 import Contact from './pages/Contact';
 import Resume from './pages/Resume';
-import Footer from '.pages/Footer';
+import Footer from './pages/Footer';
 
 
 export default function PortfolioContainer() {

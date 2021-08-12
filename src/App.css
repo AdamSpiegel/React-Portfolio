@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+<div class="card text-center border-0">
+<div class="card-header">
+  <ul class="nav nav-tabs card-header-tabs">
+    <li class="nav-item1">
+      <a class="nav-link active" href="#About Me">About Me</a>
+    </li>
+    <li class="nav-item2">
+      <a class="nav-link" href="#MyProjects">My Work</a>
+    </li>
+    <li class="nav-item3">
+      <a class="nav-link" href="Assests/Spiegel, Adam UConn Resume.pdf" target="_blank">My Resume</a>
+    </li>
+    <li class="nav-item4">
+      <a class="nav-link" href="#ContactInfo">Contact Info</a>
+    </li>
+    <img src=Assests\Images\UconnLogo.jpg id="Uconn Logo" style="width:60px;height:50px;" class="align-self-end">
+  </ul>
+</div>
