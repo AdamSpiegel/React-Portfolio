@@ -1,3 +1,7 @@
+body {
+  background-image: url(public/images/bg-image3.jpg);
+}
+
 /* .App {
   text-align: center;
 }
@@ -38,5 +42,5 @@
 } */
 
 body {
-  background-image: url("./public/images/bgimage3");
+  background-image: url("public/images/bg-image3.jpg");
 }
