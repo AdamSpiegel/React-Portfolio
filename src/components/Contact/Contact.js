@@ -32,21 +32,3 @@ function Contact() {
 }
 
 export default Contact;
-
-
-
-
-
-
-import React from 'react';
-
-export default function Contact() {
-    return (
-        <div>
-            <h1>Contact</h1>
-            <p>
-                {/* Insert Contact Form Here */}
-            </p>
-        </div>
-    );
-}
