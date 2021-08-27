@@ -1,8 +1,4 @@
-body {
-  background-image: url("./bgimage3.jpg");
-}
-
-/* .App {
+.App {
   text-align: center;
 }
 
@@ -39,4 +35,4 @@ body {
   to {
     transform: rotate(360deg);
   }
-} */
+}
